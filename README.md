@@ -6,3 +6,9 @@
 
   * requestHeaderServlet : 헤더파일 정보 출력확인
   * requestparamservelet : 파라미터 정보 출력 확인
+
+
+#### application.properties
+
+* logging.level.org.apache.coyote.http11=debug
+입력시 디버깅 
