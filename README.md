@@ -16,5 +16,5 @@
 ### main -> web -> frontcontroller -> v1
 가장 기본적인 frontcontroller 사용
 
-### ### main -> web -> frontcontroller -> v2
+### main -> web -> frontcontroller -> v2
 myview 클래스를 따로 빼서 해당 클래스를 통해 view만 랜더링(반환)
