@@ -19,5 +19,12 @@ public class ServletApplication {
 //			return new InternalResourceViewResolver("/WEB-INF/views",".jsp");
 //		}
 //
-}
+
+	}
+//스프링 빈 직접 등록
+//		@Bean
+//		TestController testController() {
+//			return new TestController();
+//		}
+//}
 }
